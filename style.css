@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://i.pinimg.com/564x/15/e0/67/15e0675dd5d8c1d51312e6436f6ecd55.jpg");
+    font-size: 30px;
+  }
+  
+  .quote-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  
+    background-color: #F4EDEA;
+    border: 10px solid #F4D1AE;
+    color: gray;
+  
+    width: 70%;
+    width: 900px;
+    height: 450px;
+    margin: auto;
+    margin-top: 6%;
+    padding: 0 50px;
+  }
+  
+  
+  .btn-container{
+    text-align: center;
+  }
