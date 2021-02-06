@@ -1,5 +1,6 @@
 body{
     background: url('https://i.ibb.co/9prBrCk/aaaaa.jpg')
+    background-color: #B38E86;
     font-size: 30px;
   }
   
@@ -9,7 +10,7 @@ body{
     justify-content: center;
     text-align: center;
   
-    background-color: #B38E86;
+    background-color: #F4EDEA;
     border: 10px solid #F4D1AE;
     color: gray;
   
