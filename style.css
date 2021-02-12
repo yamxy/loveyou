@@ -21,19 +21,6 @@ body{
     margin-top: 6%;
     padding: 0 50px;
   }
-  .info {
-  border-color: #2196F3;
-  color: dodgerblue
-}
-
-.info:hover {
-  background: #2196F3;
-  color: white;
-}
-
-.btn {
-  border-radius: 5px;
-}
   
   .btn-container{
     text-align: center;
